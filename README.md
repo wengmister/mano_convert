@@ -1,6 +1,6 @@
-# Mano Clean
+# Mano Convert
 
-Convert [mano hands](https://mano.is.tue.mpg.de/) to chumpy-free versions for visualization and export.
+Convert [mano hands](https://mano.is.tue.mpg.de/) to chumpy-free format for easier visualization and export.
 
 ![hand](image.png)
 
